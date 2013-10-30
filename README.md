@@ -1,0 +1,4 @@
+ZxingCore
+=========
+
+ZxingCore code
